@@ -1,0 +1,2 @@
+include ':autojs'
+rootProject.name='autojs'
