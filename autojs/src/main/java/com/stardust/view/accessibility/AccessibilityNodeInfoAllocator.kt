@@ -5,9 +5,7 @@ import androidx.annotation.RequiresApi
 import androidx.core.view.accessibility.AccessibilityNodeInfoCompat
 import android.util.Log
 import android.view.accessibility.AccessibilityNodeInfo
-
-import com.stardust.automator.BuildConfig
-
+import com.stardust.autojs.BuildConfig
 import java.util.Arrays
 import java.util.HashMap
 

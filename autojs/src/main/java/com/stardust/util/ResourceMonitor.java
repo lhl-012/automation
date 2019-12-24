@@ -5,7 +5,7 @@ import android.os.Looper;
 import android.util.Log;
 import android.util.SparseArray;
 
-import com.stardust.BuildConfig;
+import com.stardust.autojs.BuildConfig;
 
 import java.util.concurrent.ConcurrentHashMap;
 
